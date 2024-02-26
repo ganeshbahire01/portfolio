@@ -38,6 +38,11 @@ const projects = [
     name: "CSS",
     category: "frontend",
   },
+  {
+    icon: "/AWS.png",
+    name: "CSS",
+    category: "frontend",
+  },
 
   {
     icon: "https://alih6051.github.io/static/media/bootstrap.9d52c09ec3d831cca7244e06743aed7d.svg",
@@ -111,7 +116,7 @@ const projects = [
     category: "tool",
   },
   {
-    icon: "https://w7.pngwing.com/pngs/47/318/png-transparent-graphql-playground-macos-bigsur-icon-thumbnail.png",
+    icon: "/graphql.png",
     name: "Github",
     category: "tool",
   },
