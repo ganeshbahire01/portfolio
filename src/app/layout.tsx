@@ -16,6 +16,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <title>Ganesh Bahire - Portfolio</title>
+        <meta
+          name="description"
+          content="Welcome to Ganesh Bahire's portfolio. Explore my projects, skills, and experience as a full-stack developer."
+        />
+      </head>
       <body className={inter.className}>{children}</body>
     </html>
   );
